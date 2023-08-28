@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj": {}
+    "D:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj": {}
   },
   "projects": {
-    "d:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj": {
+    "D:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj",
+        "projectUniqueName": "D:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj",
         "projectName": "api_001",
-        "projectPath": "d:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj",
+        "projectPath": "D:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\api_001.csproj",
         "packagesPath": "C:\\Users\\rugge\\.nuget\\packages\\",
-        "outputPath": "d:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\obj\\",
+        "outputPath": "D:\\development\\csharp\\projects\\august_2023\\28_agosto_2023\\api_001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rugge\\AppData\\Roaming\\NuGet\\NuGet.Config"
